@@ -6,6 +6,12 @@
 
 아래의 도구들을 사용해 효율적으로 테스트해보세요! 🚀
 
+## 👨‍💻Team
+
+|<img src="https://avatars.githubusercontent.com/u/139302518?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/78792358?v=4" width="100" height="100"/>|
+|:-:|:-:|
+|곽병찬<br/>[@gato-46](https://github.com/gato-46)|박현우<br/>[@smartcow99](https://github.com/smartcow99)|
+
 ## 🔧 준비 사항
 
 - Ubuntu 운영체제
