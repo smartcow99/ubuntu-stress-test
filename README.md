@@ -22,7 +22,7 @@
 - **Database**: MySQL
 - **API Endpoint**: `/api/v1/resource`
 - **Port**: 8080
-- **Dependency Management**: Maven
+- **Dependency Management**: Gradle
 
 애플리케이션은 간단한 REST API를 제공합니다. 데이터베이스는 H2 (in-memory)를 사용하거나 MySQL과 연동할 수 있으며, 기본적으로 포트 `8080`에서 동작합니다.
 
